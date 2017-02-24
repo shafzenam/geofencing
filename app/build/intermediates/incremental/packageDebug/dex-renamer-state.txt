@@ -1,0 +1,7 @@
+#Mon Feb 06 22:49:11 CST 2017
+base.0=C\:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aa10b775c5fe09abeca67e4ad14edb24ad524d64
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7da22419426f90aa0454395f735ec21608c91f22\\classes.dex
+base.1=C\:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7da22419426f90aa0454395f735ec21608c91f22
+file.0=C\:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aa10b775c5fe09abeca67e4ad14edb24ad524d64\\classes.dex
