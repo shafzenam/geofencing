@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "C:\\Users\\nagaraju\\AndroidStudioProjects\\Geofencing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\softies\\Geofencing-20170224T005054Z-001\\Geofencing\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\softies\\Geofencing-20170224T005054Z-001\\Geofencing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
     }
 ]
